@@ -13,7 +13,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsaidnouh" alt="ahmadsaidnouh" /></a> </p> -->
 
-- 🔭 I’m currently working at [Innovscope Software House](https://www.linkedin.com/company/innovscope/)
+- 🔭 I’m currently working as a Software Engineer at [Innovscope Software House](https://www.linkedin.com/company/innovscope/)
 
 - 🌱 I’m currently learning **ASP.NET and AWS**
 
