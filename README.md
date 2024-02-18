@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmad Said</h1>
-<h3 align="center">A passionate MEAN Stack developer from Egypt</h3>
+<h3 align="center">A passionate MEAN Stack Software Engineer from Egypt</h3>
 <!-- <img align=”right” alt=”Coding” width=”400” src=”https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bq443pt4xnkwux44petc7s0t3bdp58al8f3o34hr&ep=v1_gifs_search&rid=giphy.gif”> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsaidnouh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsaidnouh" /> </p>
